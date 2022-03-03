@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "SecureAPI/bin/Release/netcoreapp2.2/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4b6d5b42-1078-4b72-a636-9ea16eeeea43/resourceGroups/networkingdemo/providers/Microsoft.Web/sites/networkingdemo-api"
+}
